@@ -1,0 +1,19 @@
+{
+  "name": "@antoinepairet/iban-bic-belgium",
+  "version": "1.0.0",
+  "description": "IBAN and BIC (SWIFT) utility library for Belgium",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antoinepairet/iban-bic-belgium.git"
+  },
+  "author": "Antoine Pairet <antoinepairet@gmail.com>",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/antoinepairet/iban-bic-belgium/issues"
+  },
+  "homepage": "https://github.com/antoinepairet/iban-bic-belgium#readme"
+}
